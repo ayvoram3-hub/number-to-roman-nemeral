@@ -1,0 +1,51 @@
+{
+    "name": "Number to Roman Nemeral",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-raycasting": "github:aqeeaqee/pxt-raycasting#v0.3.18",
+        "sprite-scaling": "*",
+        "arcade-piano-roll": "github:microsoft/arcade-piano-roll#v0.0.1",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.27",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#E8A1C0",
+        "#FF8135",
+        "#FFF609",
+        "#228C29",
+        "#78DC52",
+        "#0175DA",
+        "#49A0FD",
+        "#8E2EC4",
+        "#A998A7",
+        "#5C406c",
+        "#C5BABA",
+        "#91463d",
+        "#000000"
+    ]
+}
